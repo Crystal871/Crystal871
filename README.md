@@ -16,4 +16,5 @@ Pycharm download jetbrains.com/pycharm/
 Visual studio download visualstudio.microsoft.com
 if you need to contact me i will give you a link to a contact file https://app.mediafire.com/myfiles.
 my supporter is here insa.softtech@hotmail.com
-goodbye
+this repository is only for the readme.md
+Goodbye
