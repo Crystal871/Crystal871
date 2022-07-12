@@ -15,4 +15,5 @@ python download link python.org
 Pycharm download jetbrains.com/pycharm/
 Visual studio download visualstudio.microsoft.com
 if you need to contact me i will give you a link to a contact file https://app.mediafire.com/myfiles.
-goodbye.
+my supporter is here insa.softtech@hotmail.com
+goodbye
