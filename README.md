@@ -3,7 +3,7 @@ Hi i am crystal871
 I am a python coder
 I am coding on a surface pro 4
 I am new to github
-I use circleCI
+I use circleCI and conda
 please do not edit any of my files
 I have 3 repositories
 projects
