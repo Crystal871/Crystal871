@@ -15,5 +15,5 @@ python download link python.org
 Pycharm download jetbrains.com/pycharm/
 Visual studio download visualstudio.microsoft.com
 contact me at 0s1ameqqz@mozmail.com
-my supporter is here insa.softtech@hotmail.com
+if you need any software from me contact me
 Goodbye
