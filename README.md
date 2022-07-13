@@ -16,5 +16,4 @@ Pycharm download jetbrains.com/pycharm/
 Visual studio download visualstudio.microsoft.com
 contact me at 0s1ameqqz@mozmail.com
 my supporter is here insa.softtech@hotmail.com
-this repository is only for the readme.md
 Goodbye
